@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Doctors_App</string>
+    <string name="logout">Logout</string>
+
+    <string name="specialists">SPECIALISTS</string>
+    <string name="dentist">DENTIST</string>
+    <string name="cardiothoracic">CARDIOTHORACIC</string>
+    <string name="physiotherapist">PHYSIOTHERAPIST</string>
+    <string name="dermatologist">DERMATOLOGIST</string>
+    <string name="nutritionist">NUTRITIONIST</string>
+    <string name="gynaecologist">GYNAECOLOGIST</string>
+</resources>
